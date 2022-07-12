@@ -5,4 +5,5 @@ I have created an application that can allow the user to generate a random passw
 
 Git Hub Repository URL: https://github.com/bilalfarrukh2000/special-password-generator/
 Deployed URL: https://bilalfarrukh2000.github.io/special-password-generator/
-! [Screenshot]: (special-password-generator.png)
+
+![Screenshot]: <img src="special-password-generator.png"> 
